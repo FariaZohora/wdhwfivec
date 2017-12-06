@@ -1,0 +1,41 @@
+*{
+	margin:0px;
+}
+.col-lg-12,.col-lg-6,.col-lg-3,.col-lg-2,.col-lg-2,.col-md-12,.col-md-6,.col-md-3,.col-md-2,.col-md-1,.col-sm-12,.col-sm-6,.col-sm-3,.col-sm-2,.col-sm-1,.col-xs-12,.col-xs-6,.col-xs-3.col-xs-2.col-xs-1{
+	
+}
+.x{
+	border:20px solid white;
+	height:100%;
+	color:white;
+}
+.a{
+	height:400px;
+	border-top:20px solid white;
+	border-bottom:20px solid white;
+	display:initial;
+}
+.b{
+	height:195px;
+}
+.container-fluid{
+	background-color:#f5f0f1;
+	height:100px;
+}
+.container{
+	overflow:hidden;
+	height:100%;
+}
+.y{
+	height:400px;
+}
+.z{
+	
+	border-right:4px solid #f5f0f1;
+	border-top:10px solid #f5f0f1;
+	border-bottom:10px solid #f5f0f1;
+	height:90px;
+}
+.r{
+	margin-left:18px;
+}
